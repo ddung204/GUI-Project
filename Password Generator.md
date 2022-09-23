@@ -1,1 +1,1 @@
-This project was done as a final for my programming class with my partner. This program creates a password for you by answering a series of questions. Then, it will generated a password by randomizing the answer that you put.
+This project was done as a final for my programming class with my partner. This program creates a password for you by answering a series of questions. Then, it will generated a password by randomizing the answer that you put. It is coded in python.
